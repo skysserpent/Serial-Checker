@@ -1,0 +1,36 @@
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\bin\Debug\complete serial checker.exe.config
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\bin\Debug\complete serial checker.exe
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\bin\Debug\complete serial checker.pdb
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\bin\Debug\System.Buffers.xml
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\bin\Debug\System.Memory.xml
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\obj\Debug\complete serial checker.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\obj\Debug\complete_serial_checker.Properties.Resources.resources
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\obj\Debug\complete serial checker.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\obj\Debug\complete serial checker.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\obj\Debug\complete.19DB57F8.Up2Date
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\obj\Debug\complete serial checker.exe
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\obj\Debug\complete serial checker.pdb
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\obj\Debug\SystemInfoApp.Form1.resources
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\obj\Debug\complete serial checker.csproj.Fody.CopyLocal.cache
+C:\Users\domin\Desktop\newprojects\complete serial checker\complete serial checker\obj\Debug\complete serial checker.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\bin\Debug\complete serial checker.exe.config
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\bin\Debug\complete serial checker.exe
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\bin\Debug\complete serial checker.pdb
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\bin\Debug\System.Buffers.xml
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\bin\Debug\System.Memory.xml
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\obj\Debug\complete serial checker.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\obj\Debug\SystemInfoApp.Form1.resources
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\obj\Debug\complete_serial_checker.Properties.Resources.resources
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\obj\Debug\complete serial checker.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\obj\Debug\complete serial checker.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\obj\Debug\complete serial checker.csproj.Fody.CopyLocal.cache
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\obj\Debug\complete serial checker.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\obj\Debug\complete.19DB57F8.Up2Date
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\obj\Debug\complete serial checker.exe
+C:\Users\domin\Desktop\newprojects\complete serial checker\Serial-Checker\complete serial checker\obj\Debug\complete serial checker.pdb
